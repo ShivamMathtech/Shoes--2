@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+.home-page {
+  height: 100vh;
+  background-color: aliceblue;
+}
+.collection-page {
+  height: 100vh;
+  background-color: #ffffff;
+}
+.banner-page {
+  height: 100vh;
+  background-color: aliceblue;
+}
+.footer-page {
+  height: 100vh;
+  background-color: aliceblue;
+}
+footer {
+  height: 100px;
+  background-color: black;
+}
+header {
+  height: 120px;
+  background-color: #ffffff;
+}
+.content-box-1 {
+  height: calc(100vh - 120px);
+}
+.arrow {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  border: 1px solid black;
+}
+.text-container {
+  height: 40vh;
+}
