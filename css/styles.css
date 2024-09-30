@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: rgb(93, 93, 93);
   font-family: "Times New Roman", Times, serif;
 }
 .home-page {
@@ -16,7 +16,7 @@ body {
 }
 .footer-page {
   height: 100vh;
-  background-color: aliceblue;
+  background-color: rgb(255, 255, 255);
 }
 footer {
   height: 100px;
@@ -47,6 +47,9 @@ header {
 }
 .offer-img {
   height: 25vh;
-  width: 45vh;
+
   background-color: aqua;
+}
+.footbanner {
+  background-color: aliceblue;
 }
